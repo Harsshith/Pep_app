@@ -1,0 +1,62 @@
+[
+  {
+    "id": "111e4567-e89b-12d3-a456-426614174000",
+    "fullName": "John Doe",
+    "email": "john.doe@example.com",
+    "mobileNumber": "9876543210",
+    "department": "Engineering",
+    "designation": "Senior Developer",
+    "joiningDate": "2025-01-15",
+    "status": "Active"
+  },
+  {
+    "id": "222e4567-e89b-12d3-a456-426614174000",
+    "fullName": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "mobileNumber": "8765432109",
+    "department": "HR",
+    "designation": "HR Manager",
+    "joiningDate": "2024-06-10",
+    "status": "Active"
+  },
+  {
+    "id": "333e4567-e89b-12d3-a456-426614174000",
+    "fullName": "Bob Johnson",
+    "email": "bob.johnson@example.com",
+    "mobileNumber": "7654321098",
+    "department": "Marketing",
+    "designation": "Marketing Lead",
+    "joiningDate": "2024-11-20",
+    "status": "Inactive"
+  },
+  {
+    "id": "444e4567-e89b-12d3-a456-426614174000",
+    "fullName": "Alice Williams",
+    "email": "alice.williams@example.com",
+    "mobileNumber": "6543210987",
+    "department": "Engineering",
+    "designation": "QA Engineer",
+    "joiningDate": "2025-03-01",
+    "status": "Active"
+  },
+  {
+    "id": "555e4567-e89b-12d3-a456-426614174000",
+    "fullName": "Charlie Brown",
+    "email": "charlie.brown@example.com",
+    "mobileNumber": "5432109876",
+    "department": "Sales",
+    "designation": "Sales Executive",
+    "joiningDate": "2023-08-15",
+    "status": "Inactive"
+  },
+  {
+    "id": "e30fe08b-4641-41a6-a6a6-c2c3f8e2b49f",
+    "fullName": "kathir",
+    "email": "mkathir020@gmail.com",
+    "mobileNumber": "8838497231",
+    "department": "Marketing",
+    "designation": "eerode",
+    "joiningDate": "2026-07-13",
+    "status": "Active"
+  }
+]
